@@ -1,7 +1,5 @@
 package com.leet.easy;
 
-import java.util.List;
-
 /**
  *      Two - Sum
  */
