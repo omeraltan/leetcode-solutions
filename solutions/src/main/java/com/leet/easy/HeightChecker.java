@@ -30,8 +30,6 @@ public class HeightChecker {
                 .collect(Collectors.toList());
             List<Integer> list1 = new ArrayList<>(list);
             Collections.sort(list1);
-            System.out.println(list);
-            System.out.println(list1);
             for (int i = 0; i < list.size(); i++) {
                 for (int j = 0; j < list1.size(); j++) {
                     if (list.get(i) != list1.get(i)) {
