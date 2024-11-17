@@ -1,6 +1,6 @@
 package c.leet.easy;
 
-import com.leet.easy.HeightChecker;
+import com.leetcode.easy.HeightChecker;
 import jdk.jfr.Description;
 import org.junit.Assert;
 import org.junit.Test;
