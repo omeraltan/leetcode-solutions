@@ -1,6 +1,6 @@
 package c.leet.easy;
 
-import com.leet.easy.TwoSum;
+import com.leetcode.easy.TwoSum;
 import jdk.jfr.Description;
 import org.junit.Assert;
 import org.junit.Test;
